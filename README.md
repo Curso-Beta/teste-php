@@ -17,7 +17,6 @@ Sua aplicação deve possuir:
 - Deve ser ser possível "pausar" a vaga, evitando a inscrição de candidatos.
 - Cada CRUD:
   - Deve ser filtrável e ordenável por qualquer campo, e possuir paginação de 20 itens.
-  - Deve possuir formulários para criação e atualização de seus itens.
   - Deve permitir a deleção de qualquer item de sua lista.
   - Implementar validações de campos obrigatórios e tipos de dados.
 - Testes unitários.
@@ -38,13 +37,13 @@ Devem ser utilizadas as seguintes tecnologias:
 
 - Para iniciar o teste, crie um repositório em sua conta git.
 - Altere o arquivo readme.md com as informações necessárias para executar o seu teste (comandos, migrations, seeds, etc);
+- API Rest JSON para todos os CRUDS listados acima.
 
 ## Bônus
-
-- API Rest JSON para todos os CRUDS listados acima.
+- Documentação da Api
+- Sempre que uma vaga for pausada, notificar todos os inscritos para a vaga
+- Notificação de forma assincrona.
 - Permitir deleção em massa de itens nos CRUDs.
-- Permitir que o usuário mude o número de itens por página.
-- Implementar autenticação de usuário na aplicação.
 
 ## O que iremos analisar
 
