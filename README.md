@@ -20,7 +20,7 @@ Sua aplicação deve possuir:
   - Deve possuir formulários para criação e atualização de seus itens.
   - Deve permitir a deleção de qualquer item de sua lista.
   - Implementar validações de campos obrigatórios e tipos de dados.
-- Testes unitários e de unidade.
+- Testes unitários.
 
 ## Banco de dados
 
