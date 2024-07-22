@@ -30,9 +30,6 @@ Sua aplicação deve possuir:
 
 Devem ser utilizadas as seguintes tecnologias:
 
-- HTML
-- CSS
-- Javascript
 - Framework Laravel (PHP)
 - Docker (construção do ambiente de desenvolvimento)
 - Mysql
